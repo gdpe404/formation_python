@@ -1,0 +1,1 @@
+# from . import mymodule # <- from . =  chemin relatif, depuis  ce package on import mymodule
